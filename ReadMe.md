@@ -8,4 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=bieldiascz&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bieldiascz&theme=blueberry&hide_border=false)<br/>
 
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
