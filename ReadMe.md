@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 "Fear no evil!"<br>💬 Estudando PL/SQL, Python, MySQL.<br>⚡ Se especializando em desenvolvimento de sistemas.
+🌱 "Fear no evil!"<br>💬 Estudando Desenvolvimento FullStack.<br>⚡ Se especializando em desenvolvimento de sistemas.
 
 
 # 💻 Tech Stack:
